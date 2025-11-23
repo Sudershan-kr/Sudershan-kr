@@ -22,11 +22,12 @@ Technical Recruiter with **8+ years of experience** hiring across **Telecom, Fin
 ---
 
 ## 🎯 Sourcing Expertise  
-- Software Engineering (Backend, Frontend, Fullstack)  
-- DevOps, SRE, Cloud & Infrastructure  
-- Data Engineering, Data Science & ML/AI  
-- Product Managers, EM, Director, VP, CTO  
-- Telecom: Amdocs, BSS/OSS, RF/DT, NOC, Fiber, Field Ops  
+- Software Engineering (Backend, Frontend, Fullstack, iOS (Swift), Android (Kotlin/Java)
+- DevOps, SRE & Cloud Platforms (AWS, Azure, GCP)
+- Data & AI (Data Engineer, Data Science, AI/ML
+- Telecom & Networking (Telecom BSS/OSS, RF/DT, Charging & Mediation, Network Engineer, NOC
+- QA & Testing (Automation Testing, Performance Testing, Manual Testing)
+- Product & Project Management (Technical Product Manager, Project Manager)
 
 ---
 
