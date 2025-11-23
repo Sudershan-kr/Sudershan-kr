@@ -7,8 +7,7 @@
 ---
 
 ## 🚀 About Me  
-Technical Recruiter with **8+ years of experience** hiring across **Telecom, Fintech, SaaS, and Startup ecosystems**, specializing in high-quality sourcing and full-cycle recruitment.  
-Experienced in hiring across **USA, India, APAC, Middle East, and Canada**.
+Technical Recruiter with **8+ years of experience** hiring across **Telecom, Fintech, Product-based and Startup ecosystems**, specializing in high-quality technical sourcing and full-cycle recruitment across **USA, India, APAC, Middle East, and Canada**.
 
 ---
 
