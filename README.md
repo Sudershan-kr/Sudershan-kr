@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-Technical Recruiter with **8+ years of experience** hiring across **Telecom, Fintech, Product-based and Startup ecosystems**, specializing in high-quality technical sourcing and full-cycle recruitment across **USA, Canada, Middle East and APAC**.
+Technical Recruiter with **8+ years of experience** hiring across **Telecom, Fintech, Product-based and Startup ecosystems**, specializing in high-quality technical sourcing and full-cycle recruitment across **USA, Canada, Middle East and APAC region**.
 
 ---
 
@@ -45,8 +45,6 @@ Technical Recruiter with **8+ years of experience** hiring across **Telecom, Fin
 
 ## 📈 GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=Sudershan-kr&show_icons=true&theme=transparent)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudershan-kr&layout=compact&theme=transparent)
 
 ---
 
