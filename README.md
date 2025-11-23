@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Sudershan**
+# 👋 Hi, I’m **Sudershan Kumar**
 
 ### **Technical Recruiter | Talent Sourcing Specialist | IT Hiring Expert**
 
