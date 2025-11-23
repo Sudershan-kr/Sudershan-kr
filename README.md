@@ -12,12 +12,12 @@ Technical Recruiter with **8+ years of experience** hiring across **Telecom, Fin
 ---
 
 ## 📌 **What I Do**
-- ✔️ Source & screen top-tier technical talent  
-- ✔️ Conduct technical understanding calls  
-- ✔️ Build talent pipelines for niche roles  
-- ✔️ Partner with engineering leadership for hiring plans  
-- ✔️ Use data-driven recruitment metrics  
-- ✔️ Manage multiple stakeholders smoothly  
+- Source & screen top-tier technical talent  
+- Build talent pipelines for technical roles
+- Conduct technical understanding calls
+- Partner with engineering leadership for hiring plans  
+- Use data-driven recruitment metrics  
+- Manage multiple stakeholders smoothly  
 
 ---
 
